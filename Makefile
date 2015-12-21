@@ -1,3 +1,6 @@
+ARCH          = arm
+CROSS_COMPILE = arm-linux-gnueabi-
+
 VERSION = 3
 PATCHLEVEL = 8
 SUBLEVEL = 13
